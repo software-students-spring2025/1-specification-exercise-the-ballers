@@ -5,7 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 - Maya Humston [@mayhumst](https://github.com/mayhumst)
-- Kurt Luko [@](https://github.com/)
+- Kurt Luko [@kl3641](https://github.com/kl3641)
 - Ray Ochotta [@](https://github.com/)
 - Brian Zou [@](https://github.com/)
 
@@ -58,7 +58,7 @@ A stakeholder interview was conducted on 2/2/2025 with *Matilda*, a prospective 
 6. As a professional cyclist, I want to be able to find restaurants in remote places so that I can bike to remote areas and have access to food.
 7. As someone who struggles with decision paralysis, I want to be able to decide what restaurant to go to with my friends every weekend.
 8. As someone with dietary restrictions, I want access to restaurants that offer gluten-free meals so that I won't have to worry about my restrictions.
-9. As an extreme antiscoial NEET, I want an app that finds restaurnats with the least amount of traffic as possible so I can avoid human interaction.
+9. As an extremely antiscoial NEET, I want an app that finds restaurnats with the least amount of traffic as possible so I can avoid human interaction.
 10. As a student with an open campus, I only have 45 minutes to find a decent spot to eat. I want an app that recommends me something decent quickly without much input on my end.
 
 ## Activity Diagrams
