@@ -29,6 +29,21 @@ A stakeholder interview was conducted on 2/2/2025 with *Jeremiah*, a prospective
 
 A stakeholder interview was conducted on 2/2/2025 with *Matilda*, a prospective user of this app. The results of this interview are summarized below. 
 
+- Goals / Needs
+
+    - Peanut-free restaurants (dietary restriction)
+    - Busy schedule - cannot spend too long at restaurants
+    - Need flexible restaurant locations
+    - Need location tracking
+
+- Frustrations
+
+    - I don't like spending too much time on google maps
+    - I am an indecisive restaurant picker
+    - Most apps do not track dietary restrictions
+    - Most apps do not account for how busy restaurants are
+
+
 ## Product Vision Statement
 
 **Our application is a restaurant recommender that provides restaurant recommendations based on your location, preferences, and past history.**
