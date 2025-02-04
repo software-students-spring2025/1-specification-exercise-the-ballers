@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 - Maya Humston [@mayhumst](https://github.com/mayhumst)
 - Kurt Luko [@](https://github.com/)
-- Ray Ochotta [@](https://github.com/)
+- Ray Ochotta [@](https://github.com//SnowyOchole)
 - Brian Zou [@](https://github.com/)
 
 ## Stakeholders
