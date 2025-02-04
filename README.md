@@ -13,25 +13,21 @@ A little exercise to get started with the specification phase of the software de
 
 A stakeholder interview was conducted on 2/2/2025 with *Jeremiah*, a prospective user of this app. The results of this interview are summarized below. 
 
-### Stakeholder goals 
+- Stakeholder goals/needs
 
-- Looking for an app to speed up decision-making when my day is busy and I don't 
-- Looking for a 
-- 
+    - very little input
+    - pick for me (i don't like making decisions)
+    - based on my location
+    - can share location and menu with friends
 
-### Stakeholder needs
+- Stakeholder problems
 
-- Looking for an app to speed up decision-making
-- Looking for a 
-- 
+    - don't like being on my phone when i'm with friends (should be very fast!)
+    - don't like apps that drain my battery
+    - don't like apps that everyone has to have downloaded
+    - don't like being in restaurants with too many loud people
 
-### Stakeholder problems
-
-- 
-- 
-- 
-
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+A stakeholder interview was conducted on 2/2/2025 with *Matilda*, a prospective user of this app. The results of this interview are summarized below. 
 
 ## Product Vision Statement
 
