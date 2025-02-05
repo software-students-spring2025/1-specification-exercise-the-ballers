@@ -50,7 +50,7 @@ A stakeholder interview was conducted on 2/2/2025 with *Matilda*, a prospective 
 
 ## User Requirements
 
-1. As a picky eater, I want an app that find  so that [some reason].
+1. As a picky eater, I want an app that finds places so that can suit my needs.
 2. As a stay at home mom, I want easy access to food so that I can stay at home.
 3. As a vegan, I want to be easily be able to find restaurants that fit my dietary needs so that I don't need to scour google maps.
 4. As a person in a hurry, I want Foodster to pick a good restaurant for me based off my previous tastes right now! 
