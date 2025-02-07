@@ -10,6 +10,7 @@ A little exercise to get started with the specification phase of the software de
 - Ray Ochotta [@SnowyOchole](https://github.com/SnowyOchole)
 - Brian Zou [@brianzou03](https://github.com/brianzou03)
 
+
 ## Stakeholders
 
 A stakeholder interview was conducted on 2/2/2025 with *Jeremiah*, a prospective user of this app. The results of this interview are summarized below. 
@@ -64,7 +65,9 @@ A stakeholder interview was conducted on 2/2/2025 with *Matilda*, a prospective 
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+3. As a vegan, I want to be easily be able to find restaurants that fit my dietary needs so that I don't need to scour google maps.
+
+![Diagram](diagrams/Vegan.png)
 
 ## Clickable Prototype
 
