@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 - Maya Humston [@mayhumst](https://github.com/mayhumst)
-- Kurt Luko [@](https://github.com/)
+- Kurt Luko [@kl3641](https://github.com/kl3641)
 - Ray Ochotta [@](https://github.com/SnowyOchole)
 - Brian Zou [@](https://github.com/brianzou03)
 
@@ -64,7 +64,9 @@ A stakeholder interview was conducted on 2/2/2025 with *Matilda*, a prospective 
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+3. As a vegan, I want to be easily be able to find restaurants that fit my dietary needs so that I don't need to scour google maps.
+
+![Diagram](diagrams/Vegan.png)
 
 ## Clickable Prototype
 
