@@ -7,26 +7,27 @@ A little exercise to get started with the specification phase of the software de
 
 - Maya Humston [@mayhumst](https://github.com/mayhumst)
 - Kurt Luko [@kl3641](https://github.com/kl3641)
-- Ray Ochotta [@](https://github.com/SnowyOchole)
-- Brian Zou [@](https://github.com/brianzou03)
+- Ray Ochotta [@SnowyOchole](https://github.com/SnowyOchole)
+- Brian Zou [@brianzou03](https://github.com/brianzou03)
+
 
 ## Stakeholders
 
 A stakeholder interview was conducted on 2/2/2025 with *Jeremiah*, a prospective user of this app. The results of this interview are summarized below. 
 
-- Stakeholder goals/needs
+- Goals / Needs
 
-    - very little input
-    - pick for me (i don't like making decisions)
-    - based on my location
-    - can share location and menu with friends
+    - I would like to provide very little input
+    - I would like the app to pick for me (i don't like making decisions)
+    - I want it based on my location
+    - I can share location and menu with friends
 
-- Stakeholder problems
+- Frustrations
 
-    - don't like being on my phone when i'm with friends (should be very fast!)
-    - don't like apps that drain my battery
-    - don't like apps that everyone has to have downloaded
-    - don't like being in restaurants with too many loud people
+    - I don't like being on my phone when i'm with friends (should be very fast!)
+    - I don't like apps that drain my battery
+    - I don't like apps that everyone has to have downloaded
+    - I don't like being in restaurants with too many loud people
 
 A stakeholder interview was conducted on 2/2/2025 with *Matilda*, a prospective user of this app. The results of this interview are summarized below. 
 
@@ -70,5 +71,4 @@ A stakeholder interview was conducted on 2/2/2025 with *Matilda*, a prospective 
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
-
+Wireframe and prototype created in Figma. Click [here](https://www.figma.com/proto/1EwG4Ig1dRpKjIyfl5XBxY/The-Ballers?node-id=0-1&t=rqtzLwQ9ojsSWb36-1) to view. 
