@@ -69,6 +69,10 @@ A stakeholder interview was conducted on 2/2/2025 with *Matilda*, a prospective 
 
 ![Diagram](diagrams/Vegan.png)
 
+5. As a busy businessman, I want convenient restaurants near my office so that I can keep working.
+
+![Diagram](diagrams/Quick.png)
+
 ## Clickable Prototype
 
 Wireframe and prototype created in Figma. Click [here](https://www.figma.com/proto/1EwG4Ig1dRpKjIyfl5XBxY/The-Ballers?node-id=0-1&t=rqtzLwQ9ojsSWb36-1) to view. 
